@@ -1,19 +1,19 @@
 <div align="center">
 
-![Cyberpunk Pixel Art](assets/banner.gif)
+![Still On - Kirokaze](assets/banner.gif)
 
 # 🌃 Syed Nahian Siam
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF2A85&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%26+Vibecoder;Flutter+%26+Dart+Specialist;Building+Futuristic+AI+Interfaces;Crafting+Cyberpunk+UI%2FUX+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%26+Vibecoder;Flutter+%26+Dart+Specialist;Building+Futuristic+AI+Interfaces;Crafting+Cyberpunk+UI%2FUX+Experiences" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-FF2A85?style=for-the-badge&logo=google-chrome&logoColor=white)](https://knecrow.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/syed-nahian)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syednahian906@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=knecrow&label=Profile%20Views&color=ff2a85&style=for-the-badge)](https://github.com/Knecrow)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://knecrow.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-nahian)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syednahian906@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=knecrow&label=Profile%20Views&color=00e5ff&style=for-the-badge)](https://github.com/Knecrow)
 
 </div>
 
@@ -92,8 +92,8 @@
 ### 📊 Activity & Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Knecrow&show_icons=true&bg_color=120E24&title_color=FF2A85&icon_color=00E5FF&text_color=E0E6ED&border_color=FF2A85&hide_border=false&count_private=true" alt="Knecrow GitHub Stats" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Knecrow&layout=compact&bg_color=120E24&title_color=FF2A85&text_color=E0E6ED&border_color=00E5FF&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Knecrow&show_icons=true&bg_color=120E24&title_color=00E5FF&icon_color=00E5FF&text_color=E0E6ED&border_color=00E5FF&hide_border=false&count_private=true" alt="Knecrow GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Knecrow&layout=compact&bg_color=120E24&title_color=00E5FF&text_color=E0E6ED&border_color=00E5FF&hide_border=false" alt="Top Languages" />
 </div>
 
 ---
