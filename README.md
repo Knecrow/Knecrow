@@ -61,13 +61,13 @@
 
 ---
 
-### 🐍 Contribution Activity
+### 🧊 3D Isometric Contribution City
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Knecrow/Knecrow/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Knecrow/Knecrow/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Knecrow/Knecrow/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
+    <img alt="Knecrow 3D Contribution Profile" src="profile-3d-contrib/profile-night-rainbow.svg">
   </picture>
 </div>
 
