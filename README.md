@@ -1,5 +1,7 @@
 <div align="center">
 
+![Syed Nahian Banner](assets/banner.jpg)
+
 # Hi 👋, I'm Syed Nahian
 ### Full-Stack Developer & UI/UX Craftsman 🇧🇩
 
@@ -16,7 +18,6 @@
 - 🤖 **Exploring:** Generative AI integrations, futuristic HUDs, and real-time audio/visual web interfaces.
 - 💡 **Passion:** Crafting buttery-smooth animations, dark luxury aesthetics, and high-performance developer tools.
 - 🌱 **Learning:** Advanced distributed architectures, Go, and high-concurrency systems.
-- ⚡ **Fun Fact:** When I'm not writing code, I love designing cybernetic UI concepts.
 
 ---
 
@@ -35,8 +36,9 @@
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | 🛡️ **[Aegis](https://github.com/Knecrow/Aegis)** | Next-Gen Marvel JARVIS & ULTRON holographic web interface powered by Google Gemini AI, speech synthesis, and real-time audio spectrum visualization. | `JavaScript` `Gemini AI` `Web Audio API` |
-| 💎 **[Estash](https://github.com/Knecrow/Estash)** | Sleek, modern personal finance & budget tracker with dark luxury aesthetics, real-time analytics, and smooth micro-animations. | `Flutter` `Dart` `Fintech UI` |
-| 📱 **[Aumbra](https://github.com/Knecrow/Aumbra)** | Cross-platform mobile utility built with Flutter and reactive state management. | `Flutter` `Dart` |
+| ⚔️ **[Aumbra](https://github.com/Knecrow/Aumbra)** | Solo Leveling inspired daily quest RPG for self-improvement featuring Gemini AI quest master, SQLite, and Firebase. | `Flutter` `Dart` `Firebase` `Gemini AI` |
+| 💎 **[Estash](https://github.com/Knecrow/Estash)** | Sleek, modern personal finance & budget tracker with dark luxury aesthetics, real-time analytics, and smooth micro-animations. | `Flutter` `Dart` `Hive` `Provider` |
+| 📚 **[Tutracker](https://github.com/Knecrow/Tutracker)** | Premium native mobile tuition & student management app with Riverpod state management and offline-first Hive storage. | `Flutter` `Dart` `Riverpod` `Hive` |
 | ⏳ **[Hourglass](https://github.com/Knecrow/Hourglass)** | Animated browser-based focus timer with physics-driven sand flow countdown for productivity sprints. | `JavaScript` `HTML5 Canvas` `CSS3` |
 
 ---
@@ -44,11 +46,10 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Knecrow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Knecrow GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Knecrow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Knecrow GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Knecrow&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knecrow&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Knecrow&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Knecrow&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
