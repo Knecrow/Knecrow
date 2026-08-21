@@ -1,6 +1,6 @@
 <div align="center">
 
-![Syed Nahian Banner](assets/banner.jpg)
+![Cyberpunk Pixel Art](assets/banner.gif)
 
 # Hi 👋, I'm Syed Nahian Siam
 
