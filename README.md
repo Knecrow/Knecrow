@@ -97,8 +97,6 @@ Portfolio   : https://knecrow.github.io/portfolio/
 <div align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Knecrow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Knecrow GitHub Stats" />
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Knecrow&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Knecrow&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
