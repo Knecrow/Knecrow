@@ -2,32 +2,35 @@
 
 ![Cyberpunk Pixel Art](assets/banner.gif)
 
-# Hi 👋, I'm Syed Nahian Siam
+# 🌃 Syed Nahian Siam
+### Full-Stack Developer • Flutter & AI Craftsman • Vibecoder
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%26+Vibecoder;Flutter+%26+Dart+Specialist;Building+Futuristic+AI+Interfaces;Crafting+Sleek+UI%2FUX+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF2A85&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%26+Vibecoder;Flutter+%26+Dart+Specialist;Building+Futuristic+AI+Interfaces;Crafting+Cyberpunk+UI%2FUX+Experiences" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://knecrow.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-nahian)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syednahian906@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=knecrow&label=Profile%20Views&color=00e5ff&style=for-the-badge)](https://github.com/Knecrow)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-FF2A85?style=for-the-badge&logo=google-chrome&logoColor=white)](https://knecrow.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/syed-nahian)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syednahian906@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=knecrow&label=Profile%20Views&color=ff2a85&style=for-the-badge)](https://github.com/Knecrow)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👾 Terminal Diagnostics
 
 ```text
-Name        : Syed Nahian Siam
-Location    : Dhaka, Bangladesh 🇧🇩
-Role        : Full-Stack Developer & Vibecoder
-Focus       : Flutter • Dart • Python/Django • Generative AI
-Status      : Building intelligent cross-platform apps & AI tools
-Portfolio   : https://knecrow.github.io/portfolio/
+╭─────────────────────────────────────────────────────────────────╮
+│ 🌃 USER      : Syed Nahian Siam                                 │
+│ 📍 BASE      : Dhaka, Bangladesh 🇧🇩                              │
+│ ⚡ CLASS     : Full-Stack Developer & Vibecoder                │
+│ 🔮 FOCUS     : Flutter • Dart • Python/Django • Generative AI   │
+│ 🌐 PORTFOLIO : https://knecrow.github.io/portfolio/            │
+│ 🌧️ STATUS    : Crafting cybernetic mobile & web systems        │
+╰─────────────────────────────────────────────────────────────────╯
 ```
 
 - 🔭 **Currently Building:** Cross-platform mobile solutions with **Flutter & Dart** and scalable backends with **Python & Django**.
@@ -37,18 +40,18 @@ Portfolio   : https://knecrow.github.io/portfolio/
 
 ---
 
-### 🛠️ Languages & Technologies
+### 🛠️ Arsenal & Cybernetic Tools
 
 <p align="center">
   <b>Languages & Core</b><br/>
-  <img src="https://skillicons.dev/icons?i=dart,python,js,java,html,css&perline=6" /><br/><br/>
-  <b>Frameworks, Cloud & Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=flutter,django,firebase,postgres,sqlite,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=dart,python,js,java,html,css&perline=6&theme=dark" /><br/><br/>
+  <b>Frameworks, Cloud & Tooling</b><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,django,firebase,postgres,sqlite,git,github,vscode&perline=8&theme=dark" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Deployments
 
 <table>
   <tr>
@@ -92,16 +95,16 @@ Portfolio   : https://knecrow.github.io/portfolio/
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 Activity & Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Knecrow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Knecrow GitHub Stats" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Knecrow&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Knecrow&show_icons=true&bg_color=120E24&title_color=FF2A85&icon_color=00E5FF&text_color=E0E6ED&border_color=FF2A85&hide_border=false&count_private=true" alt="Knecrow GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Knecrow&layout=compact&bg_color=120E24&title_color=FF2A85&text_color=E0E6ED&border_color=00E5FF&hide_border=false" alt="Top Languages" />
 </div>
 
 ---
 
-### 🧊 3D Isometric Contribution City
+### 🧊 Cyberpunk Isometric City Grid
 
 <div align="center">
   <picture>
@@ -114,5 +117,5 @@ Portfolio   : https://knecrow.github.io/portfolio/
 ---
 
 <div align="center">
-  <sub>Designed & Developed by Syed Nahian Siam • Powered by Open Source</sub>
+  <sub>⚡ Designed & Developed by Syed Nahian Siam • Built in the Cyberpunk Grid 🌧️</sub>
 </div>
