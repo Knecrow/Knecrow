@@ -2,10 +2,10 @@
 
 ![Syed Nahian Banner](assets/banner.jpg)
 
-# Hi 👋, I'm Syed Nahian
-### Full-Stack Developer & UI/UX Craftsman 🇧🇩
+# Hi 👋, I'm Syed Nahian Siam
+### Student, Full-Stack Developer & Vibecoder 🇧🇩
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://knecrow.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://knecrow.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-nahian)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syednahian906@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=knecrow&label=Profile%20Views&color=00e5ff&style=for-the-badge)](https://github.com/Knecrow)
@@ -15,7 +15,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌐 **Portfolio & Works:** [knecrow.github.io](https://knecrow.github.io)
+- 🌐 **Portfolio & Live Works:** [knecrow.github.io/portfolio](https://knecrow.github.io/portfolio/)
 - 🔭 **Currently Building:** Cross-platform mobile solutions with **Flutter & Dart** and scalable backends with **Python & Django**.
 - 🤖 **Exploring:** Generative AI integrations, futuristic HUDs, and real-time audio/visual web interfaces.
 - 💡 **Passion:** Crafting buttery-smooth animations, dark luxury aesthetics, and high-performance developer tools.
@@ -57,5 +57,5 @@
 ---
 
 <div align="center">
-  <sub>Designed & Developed by Syed Nahian • Powered by Open Source</sub>
+  <sub>Designed & Developed by Syed Nahian Siam • Powered by Open Source</sub>
 </div>
