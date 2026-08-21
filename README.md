@@ -20,7 +20,16 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌐 **Portfolio & Live Works:** [knecrow.github.io/portfolio](https://knecrow.github.io/portfolio/)
+
+```text
+Name        : Syed Nahian Siam
+Location    : Dhaka, Bangladesh 🇧🇩
+Role        : Full-Stack Developer & Vibecoder
+Focus       : Flutter • Dart • Python/Django • Generative AI
+Status      : Building intelligent cross-platform apps & AI tools
+Portfolio   : https://knecrow.github.io/portfolio/
+```
+
 - 🔭 **Currently Building:** Cross-platform mobile solutions with **Flutter & Dart** and scalable backends with **Python & Django**.
 - 🤖 **Exploring:** Generative AI integrations, futuristic HUDs, and real-time audio/visual web interfaces.
 - 💡 **Passion:** Crafting buttery-smooth animations, dark luxury aesthetics, and high-performance developer tools.
@@ -28,25 +37,58 @@
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Languages & Technologies
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,python,django,java,js,html,css,firebase,postgres,git,github,vscode" alt="My Skills" />
-  </a>
-</div>
+<p align="center">
+  <b>Languages & Core</b><br/>
+  <img src="https://skillicons.dev/icons?i=dart,python,js,java,html,css&perline=6" /><br/><br/>
+  <b>Frameworks, Cloud & Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,django,firebase,postgres,sqlite,git,github,vscode&perline=8" />
+</p>
 
 ---
 
-### 🌟 Featured Repositories
+### 🚀 Featured Projects
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| 🛡️ **[Aegis](https://github.com/Knecrow/Aegis)** | Next-Gen Marvel JARVIS & ULTRON holographic web interface powered by Google Gemini AI, speech synthesis, and real-time audio spectrum visualization. | `JavaScript` `Gemini AI` `Web Audio API` |
-| ⚔️ **[Aumbra](https://github.com/Knecrow/Aumbra)** | Solo Leveling inspired daily quest RPG for self-improvement featuring Gemini AI quest master, SQLite, and Firebase. | `Flutter` `Dart` `Firebase` `Gemini AI` |
-| 💎 **[Estash](https://github.com/Knecrow/Estash)** | Sleek, modern personal finance & budget tracker with dark luxury aesthetics, real-time analytics, and smooth micro-animations. | `Flutter` `Dart` `Hive` `Provider` |
-| 📚 **[Tutracker](https://github.com/Knecrow/Tutracker)** | Premium native mobile tuition & student management app with Riverpod state management and offline-first Hive storage. | `Flutter` `Dart` `Riverpod` `Hive` |
-| ⏳ **[Hourglass](https://github.com/Knecrow/Hourglass)** | Animated browser-based focus timer with physics-driven sand flow countdown for productivity sprints. | `JavaScript` `HTML5 Canvas` `CSS3` |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ Project Aegis</h3>
+      <p align="center">Next-Gen Marvel JARVIS & ULTRON holographic web interface powered by Google Gemini AI, speech synthesis, and real-time audio spectrum analyzer.</p>
+      <p align="center"><code>JavaScript</code> • <code>Gemini AI</code> • <code>Web Audio API</code></p>
+      <p align="center">
+        <a href="https://github.com/Knecrow/Aegis"><b>View Code ➔</b></a> &nbsp;|&nbsp; 
+        <a href="https://knecrow.github.io/Aegis/"><b>Live Demo ➔</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚔️ Aumbra</h3>
+      <p align="center">Solo Leveling inspired daily quest RPG for self-improvement featuring Gemini AI quest master, SQLite, and Firebase synchronization.</p>
+      <p align="center"><code>Flutter</code> • <code>Dart</code> • <code>Firebase</code> • <code>Gemini AI</code></p>
+      <p align="center">
+        <a href="https://github.com/Knecrow/Aumbra"><b>View Code ➔</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💎 Estash</h3>
+      <p align="center">Sleek, modern personal finance & budget tracker with dark luxury aesthetics, dynamic status alerts, and fluid micro-animations.</p>
+      <p align="center"><code>Flutter</code> • <code>Dart</code> • <code>Hive DB</code> • <code>Provider</code></p>
+      <p align="center">
+        <a href="https://github.com/Knecrow/Estash"><b>View Code ➔</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 Tutracker</h3>
+      <p align="center">Premium native mobile tuition & student management system with Riverpod state management and offline-first Hive storage.</p>
+      <p align="center"><code>Flutter</code> • <code>Dart</code> • <code>Riverpod</code> • <code>Hive DB</code></p>
+      <p align="center">
+        <a href="https://github.com/Knecrow/Tutracker"><b>View Code ➔</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
