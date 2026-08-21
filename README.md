@@ -3,7 +3,6 @@
 ![Cyberpunk Pixel Art](assets/banner.gif)
 
 # 🌃 Syed Nahian Siam
-### Full-Stack Developer • Flutter & AI Craftsman • Vibecoder
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF2A85&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%26+Vibecoder;Flutter+%26+Dart+Specialist;Building+Futuristic+AI+Interfaces;Crafting+Cyberpunk+UI%2FUX+Experiences" alt="Typing SVG" />
@@ -20,7 +19,7 @@
 
 ---
 
-### 👾 Terminal Diagnostics
+### 👾 System Diagnostics
 
 ```text
 ╭─────────────────────────────────────────────────────────────────╮
@@ -32,11 +31,6 @@
 │ 🌧️ STATUS    : Crafting cybernetic mobile & web systems        │
 ╰─────────────────────────────────────────────────────────────────╯
 ```
-
-- 🔭 **Currently Building:** Cross-platform mobile solutions with **Flutter & Dart** and scalable backends with **Python & Django**.
-- 🤖 **Exploring:** Generative AI integrations, futuristic HUDs, and real-time audio/visual web interfaces.
-- 💡 **Passion:** Crafting buttery-smooth animations, dark luxury aesthetics, and high-performance developer tools.
-- 🌱 **Learning:** Advanced distributed architectures, Go, and high-concurrency systems.
 
 ---
 
@@ -57,37 +51,37 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🛡️ Project Aegis</h3>
-      <p align="center">Next-Gen Marvel JARVIS & ULTRON holographic web interface powered by Google Gemini AI, speech synthesis, and real-time audio spectrum analyzer.</p>
-      <p align="center"><code>JavaScript</code> • <code>Gemini AI</code> • <code>Web Audio API</code></p>
+      <p align="center">JARVIS & ULTRON holographic web HUD powered by Google Gemini AI and Web Audio spectrum analysis.</p>
+      <p align="center"><code>JavaScript</code> • <code>Gemini AI</code> • <code>Web Audio</code></p>
       <p align="center">
-        <a href="https://github.com/Knecrow/Aegis"><b>View Code ➔</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/Knecrow/Aegis"><b>Code ➔</b></a> &nbsp;|&nbsp; 
         <a href="https://knecrow.github.io/Aegis/"><b>Live Demo ➔</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">⚔️ Aumbra</h3>
-      <p align="center">Solo Leveling inspired daily quest RPG for self-improvement featuring Gemini AI quest master, SQLite, and Firebase synchronization.</p>
+      <p align="center">Solo Leveling inspired daily quest RPG for self-improvement with Gemini AI quest master & Firebase.</p>
       <p align="center"><code>Flutter</code> • <code>Dart</code> • <code>Firebase</code> • <code>Gemini AI</code></p>
       <p align="center">
-        <a href="https://github.com/Knecrow/Aumbra"><b>View Code ➔</b></a>
+        <a href="https://github.com/Knecrow/Aumbra"><b>Code ➔</b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">💎 Estash</h3>
-      <p align="center">Sleek, modern personal finance & budget tracker with dark luxury aesthetics, dynamic status alerts, and fluid micro-animations.</p>
+      <p align="center">Sleek personal finance & daily budget tracker with dark luxury aesthetics and fluid micro-animations.</p>
       <p align="center"><code>Flutter</code> • <code>Dart</code> • <code>Hive DB</code> • <code>Provider</code></p>
       <p align="center">
-        <a href="https://github.com/Knecrow/Estash"><b>View Code ➔</b></a>
+        <a href="https://github.com/Knecrow/Estash"><b>Code ➔</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📚 Tutracker</h3>
-      <p align="center">Premium native mobile tuition & student management system with Riverpod state management and offline-first Hive storage.</p>
+      <p align="center">Native tuition & student management app built with Riverpod and offline-first Hive storage.</p>
       <p align="center"><code>Flutter</code> • <code>Dart</code> • <code>Riverpod</code> • <code>Hive DB</code></p>
       <p align="center">
-        <a href="https://github.com/Knecrow/Tutracker"><b>View Code ➔</b></a>
+        <a href="https://github.com/Knecrow/Tutracker"><b>Code ➔</b></a>
       </p>
     </td>
   </tr>
