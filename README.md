@@ -1,6 +1,6 @@
 <div align="center">
 
-![Still On - Kirokaze](assets/banner.gif)
+![Still On - Kirokaze](assets/still-on-banner.gif)
 
 # 🌃 Syed Nahian Siam
 
