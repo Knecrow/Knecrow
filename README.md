@@ -3,7 +3,12 @@
 ![Syed Nahian Banner](assets/banner.jpg)
 
 # Hi 👋, I'm Syed Nahian Siam
-### Student, Full-Stack Developer & Vibecoder 🇧🇩
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%26+Vibecoder;Flutter+%26+Dart+Specialist;Building+Futuristic+AI+Interfaces;Crafting+Sleek+UI%2FUX+Experiences" alt="Typing SVG" />
+</a>
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://knecrow.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-nahian)
@@ -25,11 +30,11 @@
 
 ### 🛠️ Tech Stack & Arsenal
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Mobile & Frontend** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend & Cloud** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **AI & Tooling** | ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,python,django,java,js,html,css,firebase,postgres,git,github,vscode" alt="My Skills" />
+  </a>
+</div>
 
 ---
 
@@ -52,6 +57,18 @@
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Knecrow&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Knecrow&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Knecrow/Knecrow/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Knecrow/Knecrow/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Knecrow/Knecrow/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 ---
