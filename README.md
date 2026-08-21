@@ -1,31 +1,58 @@
-[![MasterHead](https://user-images.githubusercontent.com/92149073/209520546-e43e8fc9-bcf0-4a10-8ecc-71de8b1be9d9.gif)](https://Knecrow.io)
-<h1 align="center">Hi 👋, I'm Nahian</h1>
-<h3 align="center">A passionate programmer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/24c6287be76c155a12345cb131d1379589070ec28c94088f4582f19d3a1865e9/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313237322f312a5a53566d57476363317765454e6230536861775778772e676966">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=knecrow&label=Profile%20views&color=0e75b6&style=flat" alt="knecrow" /> </p>
+# Hi 👋, I'm Syed Nahian
+### Full-Stack Developer & UI/UX Craftsman 🇧🇩
 
-- 🔭 I’m currently working on **Django**
+[![Profile Views](https://komarev.com/ghpvc/?username=knecrow&label=Profile%20Views&color=00e5ff&style=for-the-badge)](https://github.com/Knecrow)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-nahian)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syednahian906@gmail.com)
 
-- 🌱 I’m currently learning **Java,Python**
+</div>
 
-- 📫 How to reach me **syednahian906@gmail.com**
+---
 
-- ⚡ Fun fact **I ignore**
+### 👨‍💻 About Me
+- 🔭 **Currently Building:** Cross-platform mobile solutions with **Flutter & Dart** and scalable backends with **Python & Django**.
+- 🤖 **Exploring:** Generative AI integrations, futuristic HUDs, and real-time audio/visual web interfaces.
+- 💡 **Passion:** Crafting buttery-smooth animations, dark luxury aesthetics, and high-performance developer tools.
+- 🌱 **Learning:** Advanced distributed architectures, Go, and high-concurrency systems.
+- ⚡ **Fun Fact:** When I'm not writing code, I love designing cybernetic UI concepts.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/syed nahian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed nahian" height="30" width="40" /></a>
-<a href="https://medium.com/syed nahian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="syed nahian" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/syed nahian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="syed nahian" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/syednahian906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syednahian906" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🛠️ Tech Stack & Arsenal
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=knecrow&show_icons=true&locale=en&layout=compact" alt="knecrow" /></p>
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Mobile & Frontend** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend & Cloud** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **AI & Tooling** | ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=knecrow&show_icons=true&locale=en" alt="knecrow" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=knecrow&" alt="knecrow" /></p>
+### 🌟 Featured Repositories
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| 🛡️ **[Aegis](https://github.com/Knecrow/Aegis)** | Next-Gen Marvel JARVIS & ULTRON holographic web interface powered by Google Gemini AI, speech synthesis, and real-time audio spectrum visualization. | `JavaScript` `Gemini AI` `Web Audio API` |
+| 💎 **[Estash](https://github.com/Knecrow/Estash)** | Sleek, modern personal finance & budget tracker with dark luxury aesthetics, real-time analytics, and smooth micro-animations. | `Flutter` `Dart` `Fintech UI` |
+| 📱 **[Aumbra](https://github.com/Knecrow/Aumbra)** | Cross-platform mobile utility built with Flutter and reactive state management. | `Flutter` `Dart` |
+| ⏳ **[Hourglass](https://github.com/Knecrow/Hourglass)** | Animated browser-based focus timer with physics-driven sand flow countdown for productivity sprints. | `JavaScript` `HTML5 Canvas` `CSS3` |
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Knecrow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Knecrow GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knecrow&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Knecrow&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed & Developed by Syed Nahian • Powered by Open Source</sub>
+</div>
