@@ -94,6 +94,8 @@
 <div align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Knecrow&show_icons=true&bg_color=120E24&title_color=00E5FF&icon_color=00E5FF&text_color=E0E6ED&border_color=00E5FF&hide_border=false&count_private=true" alt="Knecrow GitHub Stats" />
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Knecrow&layout=compact&bg_color=120E24&title_color=00E5FF&text_color=E0E6ED&border_color=00E5FF&hide_border=false" alt="Top Languages" />
+  <br/><br/>
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Profile Streak & Details" />
 </div>
 
 ---
