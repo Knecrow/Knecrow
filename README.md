@@ -2,7 +2,7 @@
 
 ![Still On - Kirokaze](assets/still-on-banner.gif)
 
-# 🌃 Syed Nahian Siam
+# Syed Nahian Siam
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%26+Vibecoder;Flutter+%26+Dart+Specialist;Building+Futuristic+AI+Interfaces;Crafting+Cyberpunk+UI%2FUX+Experiences" alt="Typing SVG" />
@@ -23,12 +23,12 @@
 
 ```text
 ╭─────────────────────────────────────────────────────────────────╮
-│ 🌃 USER      : Syed Nahian Siam                                 │
-│ 📍 BASE      : Dhaka, Bangladesh 🇧🇩                              │
-│ ⚡ CLASS     : Full-Stack Developer & Vibecoder                │
-│ 🔮 FOCUS     : Flutter • Dart • Python/Django • Generative AI   │
-│ 🌐 PORTFOLIO : https://knecrow.github.io/portfolio/            │
-│ 🌧️ STATUS    : Crafting cybernetic mobile & web systems        │
+│ USER         : Syed Nahian Siam                                 │
+│ LOCATION     : Dhaka, Bangladesh 🇧🇩                              │
+│ CLASS        : Full-Stack Developer & Vibecoder                │
+│ FOCUS        : Flutter • Dart • Python/Django • Generative AI   │
+│ PORTFOLIO    : https://knecrow.github.io/portfolio/            │
+│ STATUS       : Crafting cybernetic mobile & web systems        │
 ╰─────────────────────────────────────────────────────────────────╯
 ```
 
