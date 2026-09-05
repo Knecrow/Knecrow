@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://knecrow.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://knecrow.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-nahian)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syednahian906@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=knecrow&label=Profile%20Views&color=00e5ff&style=for-the-badge)](https://github.com/Knecrow)
@@ -27,7 +27,7 @@
 │ LOCATION     : Dhaka, Bangladesh 🇧🇩                              │
 │ CLASS        : Full-Stack Developer & Vibecoder                │
 │ FOCUS        : Flutter • Dart • Python/Django • Generative AI   │
-│ PORTFOLIO    : https://knecrow.github.io/portfolio/            │
+│ PORTFOLIO    : https://knecrow.github.io/                       │
 │ STATUS       : Crafting cybernetic mobile & web systems        │
 ╰─────────────────────────────────────────────────────────────────╯
 ```
